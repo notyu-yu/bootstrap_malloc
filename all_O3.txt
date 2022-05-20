@@ -1,0 +1,80 @@
+build mdriver
+make: 'mdriver' is up to date.
+==================================================
+./tracefiles/amptjp-bal.rep
+Perf index = 60 (util) + 40 (thru) = 100/100
+==================================================
+./tracefiles/amptjp.rep
+Perf index = 60 (util) + 40 (thru) = 100/100
+==================================================
+./tracefiles/binary2-bal.rep
+Perf index = 31 (util) + 7 (thru) = 38/100
+==================================================
+./tracefiles/binary2.rep
+Perf index = 31 (util) + 4 (thru) = 35/100
+==================================================
+./tracefiles/binary-bal.rep
+Perf index = 33 (util) + 6 (thru) = 39/100
+==================================================
+./tracefiles/binary.rep
+Perf index = 33 (util) + 4 (thru) = 37/100
+==================================================
+./tracefiles/cccp-bal.rep
+Perf index = 60 (util) + 40 (thru) = 100/100
+==================================================
+./tracefiles/cccp.rep
+Perf index = 60 (util) + 40 (thru) = 100/100
+==================================================
+./tracefiles/coalescing-bal.rep
+Perf index = 40 (util) + 40 (thru) = 80/100
+==================================================
+./tracefiles/coalescing.rep
+Perf index = 40 (util) + 40 (thru) = 80/100
+==================================================
+./tracefiles/cp-decl-bal.rep
+Perf index = 60 (util) + 40 (thru) = 100/100
+==================================================
+./tracefiles/cp-decl.rep
+Perf index = 60 (util) + 40 (thru) = 100/100
+==================================================
+./tracefiles/expr-bal.rep
+Perf index = 60 (util) + 40 (thru) = 100/100
+==================================================
+./tracefiles/expr.rep
+Perf index = 60 (util) + 40 (thru) = 100/100
+==================================================
+./tracefiles/random2-bal.rep
+Perf index = 55 (util) + 40 (thru) = 95/100
+==================================================
+./tracefiles/random2.rep
+Perf index = 55 (util) + 40 (thru) = 95/100
+==================================================
+./tracefiles/random-bal.rep
+Perf index = 55 (util) + 40 (thru) = 95/100
+==================================================
+./tracefiles/random.rep
+Perf index = 55 (util) + 40 (thru) = 95/100
+==================================================
+./tracefiles/realloc2-bal.rep
+Perf index = 27 (util) + 40 (thru) = 67/100
+==================================================
+./tracefiles/realloc2.rep
+Perf index = 27 (util) + 40 (thru) = 67/100
+==================================================
+./tracefiles/realloc-bal.rep
+Perf index = 48 (util) + 40 (thru) = 88/100
+==================================================
+./tracefiles/realloc.rep
+Perf index = 48 (util) + 40 (thru) = 88/100
+==================================================
+./tracefiles/short1-bal.rep
+Perf index = 40 (util) + 40 (thru) = 80/100
+==================================================
+./tracefiles/short1.rep
+Perf index = 40 (util) + 40 (thru) = 80/100
+==================================================
+./tracefiles/short2-bal.rep
+Perf index = 54 (util) + 40 (thru) = 94/100
+==================================================
+./tracefiles/short2.rep
+Perf index = 54 (util) + 40 (thru) = 94/100
